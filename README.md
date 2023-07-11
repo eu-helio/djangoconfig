@@ -1,0 +1,2 @@
+# djangoconfig
+COnfiguração Inicial Django
